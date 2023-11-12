@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 img {
   width: 150px;
   height: 200px;
@@ -5,3 +6,9 @@ img {
   /* border-radius: 500px; */
   box-shadow: 5px 5px 10px;
 }
+=======
+img{
+    width: 150px;
+    height: 200px;
+}
+>>>>>>> 57b5660eaa12f247f042ae81a41ef4023b27f70c
